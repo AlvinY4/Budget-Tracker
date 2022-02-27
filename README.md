@@ -21,7 +21,7 @@ This application allows users to manage their finances, by keeping track of all 
 
 ## Screenshot
 
-<img src= https://github.com/AlvinY4/Budget-Tracker/blob/main/assets/screenshot/Screen%20Shot%202022-02-27%20at%2011.01.46%20AM.png
+<img src= https://github.com/AlvinY4/Budget-Tracker/blob/main/assets/screenshot/Screen%20Shot%202022-02-27%20at%2011.01.46%20AM.png>
 
 ## Deployed Website
 
