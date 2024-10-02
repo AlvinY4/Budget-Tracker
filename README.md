@@ -17,7 +17,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Description 
 
-This application allows users to manage their finances, by keeping track of all your financial inputs and ouputs. Using PWA, the users can also enter their transactions when they are offline and it will add them when they are online from storage. 
+This application allows users to manage their finances, by keeping track of all your financial inputs and ouputs. Using PWA, the users can also enter their transactions when they are offline and it will add them when they are online from storage. Deployment many and issuses due to Heroku security reasons. please refer to the code files to see work. 
 
 ## Screenshot
 
